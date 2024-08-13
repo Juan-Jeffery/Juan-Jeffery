@@ -5,7 +5,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
   <img src="https://github.com/Juan-Jeffery/Juan-Jeffery/blob/main/cat.png" alt="Cat Image" width="100">
 </p>
-
+---
 
 
 <!--
