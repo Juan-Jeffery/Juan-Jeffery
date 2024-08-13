@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=1000&color=CACAEE&random=false&width=435&lines=Juan-Jeffery)](https://git.io/typing-svg)
+
+
+
 <!--
 **Juan-Jeffery/Juan-Jeffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
