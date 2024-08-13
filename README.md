@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=1000&color=CACAEE&random=false&width=435&lines=Juan-Jeffery)](https://git.io/typing-svg)
 
-<img src="https://github.com/Juan-Jeffery/Juan-Jeffery/blob/main/background.png" width="1200" height="500">
+<img src="https://github.com/Juan-Jeffery/Juan-Jeffery/blob/main/background.png" width="1000" height="400">
 
 
 
