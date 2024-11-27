@@ -11,10 +11,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900px">
 
-## 🛠️ &nbsp;Skills
+## 🐦‍⬛ &nbsp;Skills
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40px"> 
 
-##  &nbsp;Stats
+## 🐈‍⬛ &nbsp;Stats
 
 <p float="left">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false" height="200" width="48%" />
