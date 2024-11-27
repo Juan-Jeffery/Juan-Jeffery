@@ -4,16 +4,36 @@
   </a>
 </p>
 
-## :school: &nbsp;Education & Experience
-National Yang Ming Chiao Tung University
+## 📚 Education & Experience  
+🎓Chung Shan Medical University, BMS  
+📘National Yang Ming Chiao Tung University, BMI
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900px">
 
-## :toolbox: &nbsp;Skills
+## 🛠️ &nbsp;Skills
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40px"> 
 
+## :paw_prints: &nbsp;Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="900px">
+
+## :paw_prints: &nbsp;Stats
+
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: nowrap;">
+  <!-- Stats 卡片 -->
+  <div style="flex: 1; text-align: center;">
+    <a href="https://git.io/awesome-stats-card">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false" alt="My Awesome Stats" style="max-width: 100%; height: auto;">
+    </a>
+  </div>
+
+  <!-- GIF 動畫 -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" alt="Cool GIF" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 
 
