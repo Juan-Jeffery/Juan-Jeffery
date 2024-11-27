@@ -16,7 +16,7 @@
 
 ## :paw_prints: &nbsp;Stats
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: nowrap; width: 100%;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
   <!-- Stats 卡片 -->
   <div style="flex: 1; text-align: center; margin-right: 10px; max-width: 50%;">
     <a href="https://git.io/awesome-stats-card">
@@ -31,6 +31,7 @@
          alt="Cool GIF" style="max-width: 100%; height: auto;">
   </div>
 </div>
+
 
 
 
