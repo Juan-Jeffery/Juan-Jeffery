@@ -4,8 +4,15 @@
   </a>
 </p>
 
-##
+## :school: &nbsp;Education & Experience
+National Yang Ming Chiao Tung University
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900px">
+
+## :toolbox: &nbsp;Skills
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="900px">
 
 
