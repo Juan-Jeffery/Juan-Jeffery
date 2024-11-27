@@ -14,28 +14,12 @@
 ## 🛠️ &nbsp;Skills
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40px"> 
 
-## :paw_prints: &nbsp;Stats
+##  &nbsp;Stats
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-
-  <!-- Stats 卡片 -->
-  <div style="flex-basis: 48%; text-align: center;">
-    <a href="https://git.io/awesome-stats-card">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false" 
-           alt="My Awesome Stats" style="width: 100%; height: auto;">
-    </a>
-  </div>
-
-  <!-- GIF 動畫 -->
-  <div style="flex-basis: 48%; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" 
-         alt="Cool GIF" style="width: 100%; max-height: 200px; object-fit: contain;">
-  </div>
-
-</div>
-
-
-
+<p float="left">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false" height="200" width="48%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" height="200" width="48%" />
+</p>
 
 
 
