@@ -16,9 +16,9 @@
 
 ## :paw_prints: &nbsp;Stats
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 20%;">
   <!-- Stats 卡片 -->
-  <div style="flex: 1; text-align: center; margin-right: 10px; max-width: 50%;">
+  <div style="flex: 1; text-align: center; margin-right: 10px; max-width: 30%;">
     <a href="https://git.io/awesome-stats-card">
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false" 
            alt="My Awesome Stats" style="max-width: 20%; height: auto;">
@@ -26,9 +26,9 @@
   </div>
 
   <!-- GIF 動畫 -->
-  <div style="flex: 1; text-align: center; margin-left: 10px; max-width: 50%;">
+  <div style="flex: 1; text-align: center; margin-left: 1px; max-width: 40%;">
     <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" 
-         alt="Cool GIF" style="max-width: 10%; height: auto; max-height: 20px;">
+         alt="Cool GIF" style="max-width: 100%; height: auto; max-height: 200px;">
   </div>
 </div>
 
