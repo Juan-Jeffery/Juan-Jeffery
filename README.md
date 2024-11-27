@@ -15,25 +15,23 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40px"> 
 
 ## :paw_prints: &nbsp;Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="900px">
-
-## :paw_prints: &nbsp;Stats
-
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: nowrap;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <!-- Stats 卡片 -->
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: center; margin-right: 10px;">
     <a href="https://git.io/awesome-stats-card">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false" alt="My Awesome Stats" style="max-width: 100%; height: auto;">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false" 
+           alt="My Awesome Stats" style="max-width: 100%; height: auto;">
     </a>
   </div>
 
   <!-- GIF 動畫 -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" alt="Cool GIF" style="max-width: 100%; height: auto;">
+  <div style="flex: 1; text-align: center; margin-left: 10px;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" 
+         alt="Cool GIF" style="max-width: 100%; height: auto;">
   </div>
 </div>
+
 
 
 
@@ -51,4 +49,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## :paw_prints: &nbsp;Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="900px">
 -->
