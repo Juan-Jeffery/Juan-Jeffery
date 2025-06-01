@@ -1,18 +1,63 @@
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3A3795&width=435&lines=Juan-Jeffery" alt="Typing SVG">
-  </a>
-</p>
-
-## 📚 Education & Experience  
-🎓Chung Shan Medical University, BMS  
-📘National Yang Ming Chiao Tung University, BMI
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900px">
 
-## 🐦‍⬛ &nbsp;Skills
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40px"> 
+
+
+
+
+## 🎓 Education
+
+-  **M.S., Bioinformatics and Systems Biology**  
+  *National Yang Ming Chiao Tung University* (Expected June 2025)  
+
+-  **B.S., Biomedical Sciences**  
+  *Chung Shan Medical University*  
+
+## 🛠️ Skills
+
+**Languages & Tools:**  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30px"/> Python | 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" width="30px"/> R | 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="30px"/> Bash | 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="30px"/> Linux | 
+VSCode, Git, SQL  
+
+**Bioinformatics Tools:**  
+GATK, bcftools, VCFtools, BEDTools, Samtools, IGV  
+
+**Data Analysis & Visualization:**  
+Pandas, NumPy, Seaborn, ggplot2, matplotlib, plotly, RShiny  
+
+**Machine Learning:**  
+scikit-learn, caret, PCA, Random Forest, SVM  
+
+---
+
+## 📂 Featured Projects
+
+### 🔬 ITD Mutation Analysis Pipeline  
+A custom pipeline to detect Internal Tandem Duplications (ITDs) from VCF files using hg38 reference genome.  
+- ✅ Performed GC content and replication timing analysis  
+- ⚙️ Tools: Python, Bash, R, VCFtools, BEDtools  
+- 🔗 [View on GitHub](https://github.com/Juan-Jeffery/ITD-pipeline)
+
+---
+
+### 🧠 Cancer Subtype Classification with ML  
+Built a machine learning model to classify cancer subtypes from gene expression profiles.  
+- 🎯 Achieved over 90% validation accuracy using Random Forest and SVM  
+- 📊 Features selected with PCA and statistical filtering  
+- 🔗 [Repository](https://github.com/Juan-Jeffery/cancer-ml)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **iGEM Competition** – Gold Medal, Software Nomination  
+- 🎤 Presented poster at international cancer genomics conference  
+- 🧾 Completed: Genomic Data Science (JHU, Coursera)
+
+---
 
 ## 🐈‍⬛ &nbsp;Stats
 
@@ -21,6 +66,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" height="200" width="48%" />
 </p>
 
+---
+
+## 📫 Contact Me
+
+- 📧 Email: juan.jeffery@example.com  
+- 🌐 Portfolio: [juan-jeffery.github.io](https://juan-jeffery.github.io)  
+- 💼 LinkedIn: [linkedin.com/in/juan-jeffery](https://linkedin.com/in/juan-jeffery)
+
+<!--
+**Juan-Jeffery/Juan-Jeffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
 
