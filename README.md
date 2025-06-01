@@ -1,3 +1,6 @@
+![github_圖](https://github.com/user-attachments/assets/0ced4c4d-cfb9-4770-b6ff-05f515f75fd1)
+
+
 ## 🎓 Education
 
 -  **M.S., Bioinformatics and Systems Biology**  
