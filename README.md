@@ -21,7 +21,7 @@
 
 ---
 
-## ![contact icon](https://img.icons8.com/ios-filled/30/000000/contacts.png) Contact Me
+## 🐃 Contact Me
 
 <p align="left">
   <a href="mailto:jjj853714@gmail.com" target="_blank">
