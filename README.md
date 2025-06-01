@@ -1,4 +1,4 @@
-![git](https://github.com/user-attachments/assets/b6bf7cc5-b794-4bde-bedc-1fb69353181d)
+<img width="1402" alt="github" src="https://github.com/user-attachments/assets/9966a08b-7680-4beb-be10-c40e72c7baa3" />
 
 
 ## 🎓 Education
