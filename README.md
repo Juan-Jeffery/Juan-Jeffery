@@ -11,7 +11,6 @@
 
 ## 🐦‍⬛ Skills
 
-**Languages & Tools:**  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30px"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" width="30px"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="30px"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="30px"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30px"/>
 
 ## 🐈‍⬛ &nbsp;Stats
@@ -22,12 +21,21 @@
 
 ---
 
-## 📫 Contact Me
+## ![contact icon](https://img.icons8.com/ios-filled/30/000000/contacts.png) Contact Me
 
-- 📧 Email: jjj853714@gmail.com
-- 🌐 Portfolio: [juan-jeffery.github.io](https://juan-jeffery.github.io)  
-- 💼 LinkedIn: [linkedin.com/in/juan-jeffery](www.linkedin.com/in/juan-jeffery)
-
+<p align="left">
+  <a href="mailto:jjj853714@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/secured-letter.png" alt="email icon" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://juan-jeffery.github.io" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio icon" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/juan-jeffery" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="linkedin icon" width="30"/>
+  </a>
+</p>
 
 
 
