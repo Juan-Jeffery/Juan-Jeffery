@@ -1,4 +1,4 @@
-![github_圖](https://github.com/user-attachments/assets/0ced4c4d-cfb9-4770-b6ff-05f515f75fd1)
+![git](https://github.com/user-attachments/assets/b6bf7cc5-b794-4bde-bedc-1fb69353181d)
 
 
 ## 🎓 Education
