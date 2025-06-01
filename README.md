@@ -19,7 +19,6 @@
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Juan-Jeffery?cardType=github&theme=github-dark&preferLogin=false" height="200" width="48%" />
 </p>
 
----
 
 ## 🐃 Contact Me
 
