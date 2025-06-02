@@ -22,10 +22,6 @@
 
 ## 🐃 Contact Me
 
-<p align="left">
-  <a href="mailto:jjj853714@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/secured-letter.png" alt="email icon" width="30"/>
-  </a>
   &nbsp;&nbsp;
   <a href="https://juan-jeffery.github.io" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio icon" width="30"/>
