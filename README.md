@@ -1,14 +1,6 @@
 <img width="1402" alt="github" src="https://github.com/user-attachments/assets/9966a08b-7680-4beb-be10-c40e72c7baa3" />
 
 
-## 🎓 Education
-
--  **M.S., Bioinformatics and Systems Biology**  
-  *National Yang Ming Chiao Tung University* (Expected June 2025)  
-
--  **B.S., Biomedical Sciences**  
-  *Chung Shan Medical University*  
-
 ## 🐦‍⬛ Skills
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30px"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" width="30px"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="30px"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="30px"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30px"/>
